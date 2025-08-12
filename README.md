@@ -1,16 +1,16 @@
 # Datascience-internship-tasks
 This repository contains my completed tasks for the Data Science internship.
 Each task includes a Jupyter Notebook (.ipynb) with code, explanations, and results, along with the datasets required for execution.
+
 Respiratory Structure:
-Data-Science-Internship-Tasks/
-│
-├── Task1_Credit_Risk_Prediction.ipynb
-├── loan_dataset.csv
-├── Task2_Customer_Churn_Prediction.ipynb
-├── churn_dataset.csv
-├── Task3_Insurance_Charges_Prediction.ipynb
-├── insurance_dataset.csv
-└── README.md
+Data-Science-Internship-Tasks
+Task1_Credit_Risk_Prediction.ipynb
+loan_dataset.csv
+Task2_Customer_Churn_Prediction.ipynb
+churn_dataset.csv
+Task3_Insurance_Charges_Prediction.ipynb
+insurance_dataset.csv
+README.md
 
 Task 1 – Credit Risk Prediction:
 Objective: Predict whether a loan applicant is likely to default on a loan.
@@ -42,7 +42,7 @@ Result: Smoking status and BMI had the highest impact on charges
 
 How to Run:
 1) Clone this repository
-   https://github.com/aash01k/Datascience-internship-tasks/new/main
+   https://github.com/aash01k/Datascience-internship-tasks
 
 2) Install dependencies
    pip install pandas numpy matplotlib seaborn scikit-learn
